@@ -1,4 +1,4 @@
-# NYC-Airbnb-Investment-Insights
+# NYC Airbnb Analysis
 ## Overview 
 Led a thorough project dedicated to analyzing essential metrics within NYC Airbnb data, employing strategic data-driven methods to prioritize vacation rental properties, project annual revenue, and offer insightful guidance for well-informed property investment decisions.
 ## Key Contributions
