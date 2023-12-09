@@ -19,9 +19,9 @@ Led a thorough project dedicated to analyzing essential metrics within NYC Airbn
 - Created a new column (day_of_week) using the WEEKDAY() function for analyzing popular weekdays versus weekends.
 - Developed a pivot table to compute the average occupancy rate for each listing.
 ### Methodology:
-- Utilized Excel for data exploration, cleansing, and pivot table analysis.
+- Utilized Google Sheets for data exploration, cleansing, and pivot table analysis.
 - Applied data filtering and proxy metrics to inform strategic decision-making.
-- Created advanced Excel functions for effective data standardization and analysis.
+- Created advanced Google Sheets functions for effective data standardization and analysis.
 ### Conclusion:
 The project provided stakeholders with data-driven insights for property investment decisions. Through a strategic analysis of rental activity, prioritization of neighborhoods, and understanding property size preferences, the project offered valuable guidance for optimizing investment choices. Lower East Side one-bedroom listings proved to be the best choice for investment, ensuring a well-informed approach to property investment in the NYC Airbnb market for the client.
 ## Live Demo
