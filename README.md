@@ -1,4 +1,4 @@
-# NYC Airbnb Analysis
+# NYC Airbnb Spreadsheet Analysis Project
 ## Overview 
 Led a thorough project dedicated to analyzing essential metrics within NYC Airbnb data, employing strategic data-driven methods to prioritize vacation rental properties, project annual revenue, and offer insightful guidance for well-informed property investment decisions.
 ## Key Contributions
@@ -22,7 +22,7 @@ Led a thorough project dedicated to analyzing essential metrics within NYC Airbn
 - Utilized Google Sheets for data exploration, cleansing, and pivot table analysis.
 - Applied data filtering and proxy metrics to inform strategic decision-making.
 - Created advanced Google Sheets functions for effective data standardization and analysis.
-### Conclusion:
+## Conclusion:
 The project provided stakeholders with data-driven insights for property investment decisions. Through a strategic analysis of rental activity, prioritization of neighborhoods, and understanding property size preferences, the project offered valuable guidance for optimizing investment choices. Lower East Side one-bedroom listings proved to be the best choice for investment, ensuring a well-informed approach to property investment in the NYC Airbnb market for the client.
 ## Live Demo
 [Link to Live Demo](https://docs.google.com/spreadsheets/d/1WM7ZrSIV52K5r3r0kLmMh3OgZ7K1_21fbrMfYkMoHLM/edit?usp=sharing)
